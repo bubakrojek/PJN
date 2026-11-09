@@ -10,6 +10,10 @@ __pycache__/
 .idea
 /.idea
 
+*.jpg
+*.png
+*.jpeg
+
 # Distribution / packaging
 .Python
 build/
