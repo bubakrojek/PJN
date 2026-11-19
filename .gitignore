@@ -7,12 +7,16 @@ __pycache__/
 # C extensions
 *.so
 
+/wykłady
+Seq2Seq_demo.ipynb
+utils2.py
+
 .idea
 /.idea
 
 *.csv
 *.zip
-
+*.html
 *.jpg
 *.png
 *.jpeg
