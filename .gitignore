@@ -6,7 +6,7 @@ __pycache__/
 
 # C extensions
 *.so
-
+/262_10968_92-pycharm-support-libs
 /wykłady
 Seq2Seq_demo.ipynb
 utils2.py
